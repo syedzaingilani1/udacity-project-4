@@ -1,4 +1,4 @@
-<[![<syedzaingilani1>](https://circleci.com/<gh>/<syedzaingilani1>/<udacity-project-4>.svg?style=svg)](https://circleci.com/<gh>/<syedzaingilani1>/<udacity-project-4)>
+<[![<syedzaingilani1>](https://circleci.com/<gh>/<syedzaingilani1>/<udacity-project-4>.svg?style=svg)](https://circleci.com/<gh>/<syedzaingilani1>/<udacity-project-4>)>
 
 ## Project Overview
 
