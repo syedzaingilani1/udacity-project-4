@@ -40,3 +40,13 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Elaboration of files
+
+* .circleci folder for configuration.yml file
+* model_data folder containing machine learning algorithm.
+* output text files folder(I didnot use it outout files are shown separately)
+* app.py file containing api code for python
+* Dockerfile for building docker image
+* Makefile for automating linux commands
+* .sh files for easier execution of multiple linux commands for running docker , kubernetes and uploading to docker hub 
