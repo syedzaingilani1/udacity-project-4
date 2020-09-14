@@ -6,13 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-export dockerpath=syedzaingilani/houstonprediction-rates
+export dockerpath=syedzaingilani/houstonprediction-rate
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login --username syedzaingilani
-docker tag houstonprediction-rates $dockerpath
+docker tag houstonprediction-rate $dockerpath
 
 # Step 3:
 # Push image to a docker repository

@@ -5,11 +5,11 @@ docker login --username=$DOCKER_USER --password=$DOCKER_PASS $DOCKER_HOST
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=houstonprediction-rates .
+docker build --tag=houstonprediction-rate .
 
 # Step 2: 
 # List docker images
 docker image ls
 # Step 3: 
 # Run flask app
-docker run -p 8000:80 houstonprediction-rates
+docker run -p 8000:80 houstonprediction-rate

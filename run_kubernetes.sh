@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-export dockerpath=syedzaingilani/houstonprediction-rates
+export dockerpath=syedzaingilani/houstonprediction-rate
 
 # Step 2
 # Run the Docker Hub container with kubernetes
