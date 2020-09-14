@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<[![<syedzaingilani1>](https://circleci.com/<gh>/<syedzaingilani1>/<udacity-project-4>.svg?style=svg)](https://circleci.com/<gh>/<syedzaingilani1>/<udacity-project-4)
-=======
 [![syedzaingilani1](https://circleci.com/gh/syedzaingilani1/udacity-project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/syedzaingilani1/udacity-project-4)
->>>>>>> 36e167bf6d9c26d23dec65b908b6e1931cc70ab9
 
 ## Project Overview
 
@@ -53,8 +49,4 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * app.py file containing api code for python
 * Dockerfile for building docker image
 * Makefile for automating linux commands
-<<<<<<< HEAD
 * .sh files for easier execution of multiple linux commands for running docker , kubernetes , uploading to docker and making predictions.
-=======
-* .sh files for easier execution of multiple linux commands for running docker , kubernetes and uploading to docker hub 
->>>>>>> 36e167bf6d9c26d23dec65b908b6e1931cc70ab9
